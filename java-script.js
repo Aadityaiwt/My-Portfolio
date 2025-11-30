@@ -25,3 +25,4 @@ document.addEventListener("click", function(event) {
         backSpeed: 40,
         loop: true
     })
+
